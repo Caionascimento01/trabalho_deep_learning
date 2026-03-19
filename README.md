@@ -17,11 +17,9 @@ A aplicação utiliza arquiteturas de ponta para:
 
 ## 🖼️ Interface da Aplicação
 
-Localizada na pasta `assets/`, a imagem abaixo demonstra o funcionamento da interface:
+Localizada na pasta `Imagens_Dash/`, a imagem abaixo demonstra o funcionamento da interface:
 
-![Preview do App](./assets/screenshot.png)
-
-> **Dica:** Caso a imagem não carregue, certifique-se de que o arquivo `screenshot.png` está dentro da pasta `assets` no seu repositório.
+![Preview do App](./Imagens_Dash/Api\ \-\ \Com \texto.png)
 
 ---
 
