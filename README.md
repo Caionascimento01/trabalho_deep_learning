@@ -49,7 +49,7 @@ Localizada na pasta `Imagens_Dash/`, a imagem abaixo demonstra o funcionamento d
 
 ### 1. Clone o repositório
 ```bash
-git clone [https://github.com/seu-usuario/nome-do-repositorio.git](https://github.com/seu-usuario/nome-do-repositorio.git)
+git clone [https://github.com/Caionascimento01/trabalho_deep_learning.git](https://github.com/Caionascimento01/trabalho_deep_learning.git)
 cd nome-do-repositorio
 
 # Criar ambiente
