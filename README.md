@@ -19,7 +19,7 @@ A aplicação utiliza arquiteturas de ponta para:
 
 Localizada na pasta `Imagens_Dash/`, a imagem abaixo demonstra o funcionamento da interface:
 
-![Preview do App](./Imagens_Dash/Api\ \-\ \Com \texto.png)
+![Preview do App](./Imagens_Dash/Tela_ComTexto.png)
 
 ---
 
